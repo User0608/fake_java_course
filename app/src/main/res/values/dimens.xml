@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_left">5dp</dimen>
+    <dimen name="margin_right">5dp</dimen>
+    <dimen name="margin_top">1dp</dimen>
+    <dimen name="margin_bottom">10dp</dimen>
+    <dimen name="radius_item_card">10dp</dimen>
+
+    <dimen name="dim_circularImage">90dp</dimen>
+    <dimen name="dim_corner_circularImage">90dp</dimen>
+    <dimen name="recyclerview_header">180dp</dimen>
+</resources>
